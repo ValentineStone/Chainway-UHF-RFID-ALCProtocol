@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "stdint.h": "c",
+    "stdlib.h": "c",
+    "chainway_rfid.h": "c",
+    "stdio.h": "c"
+  }
+}
